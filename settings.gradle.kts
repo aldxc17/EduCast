@@ -25,3 +25,4 @@ dependencyResolutionManagement {
 rootProject.name = "EduCast"
 include(":app")
 include(":educasttv")
+include(":core-model")
