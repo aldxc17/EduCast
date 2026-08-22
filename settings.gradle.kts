@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "EduCast"
 include(":app")
+include(":educasttv")
