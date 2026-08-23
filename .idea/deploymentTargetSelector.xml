@@ -4,7 +4,7 @@
     <selectionStates>
       <SelectionState runConfigName="educasttv">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2026-08-22T21:56:20.001043Z">
+        <DropdownSelection timestamp="2026-08-23T20:37:53.271266Z">
           <Target type="DEFAULT_BOOT">
             <handle>
               <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\aldoc\.android\avd\Television_1080p.avd" />
