@@ -4,10 +4,10 @@
     <selectionStates>
       <SelectionState runConfigName="educasttv">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2026-08-23T20:37:53.271266Z">
+        <DropdownSelection timestamp="2026-08-24T21:48:35.049034500Z">
           <Target type="DEFAULT_BOOT">
             <handle>
-              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\aldoc\.android\avd\Television_1080p.avd" />
+              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\HP-AdrianBook\.android\avd\Television_4K.avd" />
             </handle>
           </Target>
         </DropdownSelection>
@@ -15,10 +15,10 @@
       </SelectionState>
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2026-08-22T22:24:05.882676200Z">
+        <DropdownSelection timestamp="2026-08-24T12:48:25.547489900Z">
           <Target type="DEFAULT_BOOT">
             <handle>
-              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\aldoc\.android\avd\Pixel_8a_API_35.avd" />
+              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\HP-AdrianBook\.android\avd\Medium_Phone.avd" />
             </handle>
           </Target>
         </DropdownSelection>
